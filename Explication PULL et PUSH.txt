@@ -1,0 +1,4 @@
+PUSH: permet d'envoyer un ou plusieurs dossiers/ fichiers dans le dépot distant c'est à ce moment que le dépot distant va
+verrifier les doublons et les analyser et ne garder que les plus recent.
+
+PULL: permet de recuperer un ou plusieurs dossiers/ fichiers dans le dépot distant
