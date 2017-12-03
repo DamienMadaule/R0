@@ -1,0 +1,4 @@
+le dossier R1 contient tout les fichier qu'a mit ajouter et modifier le premier developpeur il est situer uniquement sur l'ordinateur du premier
+devellopeur.le dossier R2 luicontient tout les fichier qu'a mit ajouter et modifier le deuxiemes developpeur et il est aussi situer uniquement
+sur l'ordinateur du deuxieme devellopeur. Enfin le dossier R0 lui ne contient que les fichier qui ont etait envoyer par les deux devellopeur et
+exeamine les fichier envoyer en double pour savoir quel est le plus recent pour ne garder que lui.
