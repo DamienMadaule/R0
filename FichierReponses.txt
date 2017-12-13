@@ -1,0 +1,7 @@
+Pour faire un commit sur un fichier qui existe déja il faut vérifier manuellement les lignes qui ont etait mit sous cette forme la :
+<<<<< HEAD
+Texte A
+=====
+Texte B
+>>>>> 4df35dfc3ds35ds3s35fd51vs53ds
+
